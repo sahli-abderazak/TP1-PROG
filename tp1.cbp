@@ -49,6 +49,9 @@
 		<Unit filename="ex6.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="ex7.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

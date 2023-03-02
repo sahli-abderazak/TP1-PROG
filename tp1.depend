@@ -14,11 +14,17 @@
 	<stdio.h>
 	<stdlib.h>
 
-1677517774 source:c:\users\user\desktop\tp prog\tp1\ex5.c
+1677571490 source:c:\users\user\desktop\tp prog\tp1\ex5.c
 	<stdio.h>
 	<stdlib.h>
 
 1677445505 source:c:\users\user\desktop\tp prog\tp1\ex6.c
 	<stdio.h>
 	<stdlib.h>
+
+1677578548 source:c:\users\user\desktop\tp prog\tp1\ex7.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
 

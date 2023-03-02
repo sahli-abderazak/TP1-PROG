@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
- struct personne
+ /*struct personne
 {
     char nom[20];
     char prenom[20];
@@ -41,4 +41,4 @@ int main()
    printf("faux");
    }
 
-}
+}*/
